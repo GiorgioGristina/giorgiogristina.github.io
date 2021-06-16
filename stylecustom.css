@@ -1,0 +1,27 @@
+/* .ml-auto, mx-auto{ */
+   /* margin-left: auto !important; */
+/* } */
+
+.navbar-nav{
+    margin-left: auto;
+}
+
+.me{
+    width: 175px;
+    height: 175px;
+    border-radius: 50% 50%;
+}
+
+ .card img{
+    width: 275px;
+    height: 200px;
+    margin: 5px auto;
+}  
+.form-group{
+    width: 50%;
+    margin: 0 auto;
+}
+
+#send{
+    width: 100%;
+}
